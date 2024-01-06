@@ -4,11 +4,11 @@ title: Overview and Course Setup
 
 Jan 10
 : Lecture Slides
-  : [Course Overview](lecture_slides/Stanford-CME241.pdf)
+  : [Course Overview](https://raw.githubusercontent.com/coverdrive/technical-documents/master/finance/cme241/Stanford-CME241.pdf)
 : Readings
   : Chapter 1 of RLForFinanceBook
 : Assignments
-  : [Instructions to get set up for the course](lecture_slides/assignments/assignment1.pdf)
+  : [Instructions to get set up for the course](https://raw.githubusercontent.com/coverdrive/technical-documents/master/finance/cme241/assignments/Winter2024/assignment1.pdf)
 
 Jan 12
 : Lecture Slides
