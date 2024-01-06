@@ -60,6 +60,6 @@ If you already have an Academic Accommodation Letter, we invite you to share you
 
 - [Course Calendar](calendar.md)
 - [Weekly Schedule](schedule.md)
-- [announcements](announcements.md)
+- [Announcements](announcements.md)
 - [Staff](staff.md)
 
