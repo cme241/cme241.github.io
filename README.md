@@ -1,39 +1,67 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: CME 241: Foundations of Reinforcement Learning with Applications in Finance
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: CME 241
 ---
 
-# Just the Class
+# Welcome
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Welcome to the Winter 2024 edition of CME 241: Foundations of Reinforcement Learning with Applications in Finance.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+**
+- Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
+- Lectures: Wed & Fri 4:30pm-5:50pm in [Littlefield Center 103](https://campus-map.stanford.edu/?srch=Littlefield%20103)
+- Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
+- Course Assistant (CA): [Greg Zanotti](https://profiles.stanford.edu/greg-zanotti)
+**
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+# Overview of the Course
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+- Theory of Markov Decision Processes (MDPs)
+- Dynamic Programming (DP) Algorithms
+- Backward Induction (BI) and Approximate DP (ADP) Algorithms
+- Reinforcement Learning (RL) Algorithms
+- Plenty of Python implementations of models and algorithms
+- We apply these algorithms to 5 Financial/Trading problems:
+  - (Dynamic) Asset-Allocation to maximize Utility of Consumption
+  - Pricing and Hedging of Derivatives in an Incomplete Market
+  - Optimal Exercise/Stopping of Path-dependent American Options
+  - Optimal Trade Order Execution (managing Price Impact)
+  - Optimal Market-Making (Bid/Ask managing Inventory Risk)
+- By treating each of the problems as MDPs (i.e., Stochastic Control)
+- We will go over classical/analytical solutions to these problems
+- Then we will introduce real-world considerations, and tackle with RL (or DP)
+- The course blends Theory/Mathematics, Programming/Algorithms and Real-World Financial Nuances
 
-## Getting Started
+# Learning Material
 
-Getting started with Just the Class is simple.
+*   [Course Textbook](https://www.amazon.com/Foundations-Reinforcement-Learning-Applications-Finance/dp/1032124121) (henceforth known as "RLForFinanceBook"). PDF version available as [free download](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)
+*   [Python codebase Tikhon Jelvis and I have developed](https://github.com/TikhonJelvis/RL-book/tree/master/rl) to help you "learn through coding"
+*   [Technical Documents/Lecture Slides/Assignments Greg and I have prepared for this course](lecture_slides/)
+*   [Ed Discussion](https://edstem.org/us/courses/49954) (Online discussion forum)
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+# Grading
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+*   40% Exam (in week 8)
+*   30% Group Assignments (to be done until Week 7)
+*   30% Course Project
 
-### Local development environment
+# Access and Accommodations
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Stanford is committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to our class.
+
+If you experience disability, please register with the Office of Accessible Education (OAE). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty. To get started, or to re-initiate services, please visit [oae.stanford.edu](http://oae.stanford.edu)
+
+If you already have an Academic Accommodation Letter, we invite you to share your letter with us. Academic Accommodation Letters should be shared at the earliest possible opportunity so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
+
+# Course Information
+
+- [Course Calendar](calendar.md)
+- [Weekly Schedule](schedule.md)
+- [announcements](announcements.md)
+- [Staff](staff.md)
+
