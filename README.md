@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CME 241: Foundations of Reinforcement Learning with Applications in Finance
+title: CME 241 Foundations of Reinforcement Learning with Applications in Finance
 nav_exclude: false
 permalink: /:path/
 seo:
