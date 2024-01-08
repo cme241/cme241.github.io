@@ -11,4 +11,4 @@ Mar 13
   : TBD
 
 Mar 15
-Final Project Presentations (Class extended from 4:30pm to 7:00pm)
+: Final Project Presentations (Class extended from 4:30pm to 7:00pm)
