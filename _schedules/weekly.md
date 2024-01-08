@@ -27,10 +27,6 @@ schedule:
         start: 4:30 PM
         end: 5:50 PM
         location: Littlefield 103
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Thursday
   - name: Friday
     events:
