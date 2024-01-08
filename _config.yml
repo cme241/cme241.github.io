@@ -17,7 +17,7 @@ title: CME 241
 tagline: Foundations of Reinforcement Learning with Applications in Finance
 description: Course website for CME 241: Foundations of Reinforcement Learning with Applications in Finance at Stanford University
 author: Ashwin Rao
-baseurl: '/' # the subpath of your site, e.g. /blog
+# baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://cme241.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
