@@ -17,6 +17,12 @@ Welcome to the Winter 2024 edition of CME 241: Foundations of Reinforcement Lear
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
 - Course Assistant (CA): [Greg Zanotti](https://profiles.stanford.edu/greg-zanotti)
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # Overview of the Course
 
 - Theory of Markov Decision Processes (MDPs)
