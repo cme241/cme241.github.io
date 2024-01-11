@@ -12,8 +12,8 @@ Jan 10
 
 Jan 12
 : Lecture Slides
-  : TBD
+  : [Guided Tour of Chapter 3: Markov Process and Markov Reward Process](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-MP.pdf)
 : Readings
-  : TBD
+  : Chapter 3 of RLForFinanceBook
 : Assignments
-  : TBD
+  : Assignment 1 (due Monday January 22, 2024, to be released here Jan 12)
