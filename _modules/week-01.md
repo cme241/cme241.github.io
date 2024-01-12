@@ -16,6 +16,6 @@ Jan 12
 : Readings
   : Chapter 3 of RLForFinanceBook
 : Assignments
-  : Assignment 1 (due Monday January 22, 2024, to be released here Jan 12)
+  : (Assignment 2)[https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2024/assignment2.ipynb] due Jan 22
 : Optional
   : Review programming principles for the course [in this IPython notebook](https://colab.research.google.com/drive/1OOz8vKQRyJeindRwp0cKC9rCENitx1vQ#scrollTo=FAb_cOvwe6Ot)
