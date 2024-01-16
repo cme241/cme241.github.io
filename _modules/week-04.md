@@ -2,9 +2,9 @@
 title: Week 4
 ---
 
-Jan 31 : TBD
+Jan 31
 
-Feb 2 : TBD
+Feb 2
 
 <!--
 Jan 31
