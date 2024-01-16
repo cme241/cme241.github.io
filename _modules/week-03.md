@@ -23,5 +23,5 @@ Jan 26
 : Optional
   : Appendix A and C of RLForFinanceBook
 : Assignments
-  : Assignment 4: Due Feb 5 @ 11:59pm (TBA)
+  : Assignment 4: Due Feb 5 11:59pm (TBA)
 -->
