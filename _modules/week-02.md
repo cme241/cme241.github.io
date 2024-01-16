@@ -14,4 +14,4 @@ Jan 19
 : Readings
   : Chapter 5 of RLForFinanceBook	
 : Assignments
-  : Assignment 3: Due Jan 29 @ 11:59pm (TBA)
+  : Assignment 3: Due Jan 29 11:59pm (TBA)
