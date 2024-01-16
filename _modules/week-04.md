@@ -24,5 +24,5 @@ Feb 2
 : Optional
   : Appendix C and E of RLForFinanceBook; Derivatives Pricing Theory in Chapter 9 of RLForFinanceBook (Derivatives Pricing Theory is not exam-able); Relevant sections in Chapter 9 of RLForFinanceBook for Optimal Exercise and Optimal Hedging in Incomplete Markets; [Foundations of Arbitrage-Free and Complete Markets](https://github.com/coverdrive/technical-documents/blob/master/finance/ArbitrageCompleteness.pdf)
 : Assignments
-  : Assignment 5: Due Feb 12 @ 11:59pm (TBA)
+  : Assignment 5: Due Feb 12 11:59pm (TBA)
 -->
