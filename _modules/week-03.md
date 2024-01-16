@@ -2,6 +2,10 @@
 title: Week 3
 ---
 
+Jan 24
+
+Jan 26
+
 <!--
 Jan 24
 : Lecture Slides
