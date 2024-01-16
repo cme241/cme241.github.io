@@ -3,8 +3,7 @@ title: Week 10
 ---
 
 Mar 13
-: Guest Lecture
-  : TBD 
+: Guest Lecture (TBD)
 <!-- Guest Lecture by Dr. Svitlana Vyetrenko (AI Research Director at J.P.Morgan and Lecturer at UC Berkeley) -->
 
 Mar 15
