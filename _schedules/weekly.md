@@ -23,11 +23,20 @@ schedule:
   - name: Tuesday
   - name: Wednesday
     events:
+      - name: Greg's Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Zoom
       - name: Lecture
         start: 4:30 PM
         end: 5:50 PM
         location: Littlefield 103
   - name: Thursday
+    events:
+      - name: Greg's Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Zoom
   - name: Friday
     events:
       - name: Lecture
