@@ -3,11 +3,6 @@ title: Week 5
 ---
 
 Feb 7
-
-Feb 9
-
-<!--
-Feb 7
 : Lecture Slides
   : [Application Problem 4 - Optimal Trade Order Execution](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-OrderBook.pdf)
 : Readings
@@ -20,4 +15,3 @@ Feb 9
   : Optimal Market-Making section in Chapter 10 of RLForFinanceBook	
 : Assignments
   : Assignment 6: Due Feb 19 11:59pm (TBA)
--->
