@@ -14,4 +14,4 @@ Feb 9
 : Readings
   : Optimal Market-Making section in Chapter 10 of RLForFinanceBook	
 : Assignments
-  : Assignment 6: Due Feb 19 11:59pm (TBA)
+  : [Assignment 6: Due Feb 19 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2024/assignment6.ipynb)
