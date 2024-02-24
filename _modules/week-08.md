@@ -2,11 +2,7 @@
 title: Week 8
 ---
 
-Feb 28
 
-Mar 1
-
-<!--
 Feb 28
 : Lecture Slides
   : [Value Function Geometry and Gradient TD](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-Batch.pdf)
@@ -17,5 +13,4 @@ Mar 1
 : Lecture Slides
   : [Policy Gradient Algorithms](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-PG.pdf)
 : Readings
-  : Chapter 14 of RLForFinanceBook	
--->
+  : Chapter 14 of RLForFinanceBook
