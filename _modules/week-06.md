@@ -14,4 +14,4 @@ Feb 16
 : Readings
   : Eligibility Traces and TD(Lambda) sections in Chapter 11 of RLForFinanceBook	
 : Assignments
-  : Assignment 7: Due Mar 04 11:59pm (TBA)
+  : [Assignment 7: Due Mar 04 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2024/assignment7.ipynb)
