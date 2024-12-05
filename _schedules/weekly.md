@@ -21,22 +21,31 @@ timeline:
 schedule:
   - name: Monday
   - name: Tuesday
+    events:
+      - name: Neel's Office Hours
+        start: 3:30 PM
+        end: 5:00 PM
+        location: Huang Basement
   - name: Wednesday
     events:
-      - name: Greg's Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Zoom
+      # - name: Greg's Office Hours
+      #   start: 12:00 PM
+      #   end: 1:00 PM
+      #   location: Zoom
       - name: Lecture
         start: 4:30 PM
         end: 5:50 PM
         location: Littlefield 103
   - name: Thursday
     events:
-      - name: Greg's Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Zoom
+      # - name: Greg's Office Hours
+      #   start: 12:00 PM
+      #   end: 1:00 PM
+      #   location: Zoom
+      - name: Neel's Office Hours
+        start: 3:30 PM
+        end: 5:00 PM
+        location: Huang Basement
   - name: Friday
     events:
       - name: Lecture
