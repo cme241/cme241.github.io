@@ -15,7 +15,7 @@ Welcome to the Winter 2025 edition of CME 241: Foundations of Reinforcement Lear
 - Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Littlefield Center 103](https://campus-map.stanford.edu/?srch=Littlefield%20103)
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
-- Course Assistant (CA): [Greg Zanotti](https://profiles.stanford.edu/greg-zanotti)
+- Course Assistant (CA): [Neel Narayan]([https://profiles.stanford.edu/greg-zanotti](https://icme.stanford.edu/people/neel-narayan))
 - Greg's Office Hours: Wed & Thur 12:00-1:00pm on Zoom
 
 ## Table of contents
