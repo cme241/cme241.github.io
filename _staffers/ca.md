@@ -1,8 +1,8 @@
 ---
-name: Greg Zanotti
+name: Neel Narayan
 role: Course Assistant
-email: gzanotti@stanford.edu
-website: https://profiles.stanford.edu/greg-zanotti
+email: neelsn@stanford.edu
+website: https://icme.stanford.edu/people/neel-narayan
 photo: 
 ---
 
