@@ -35,7 +35,7 @@ schedule:
       - name: Lecture
         start: 4:30 PM
         end: 5:50 PM
-        location: Littlefield 103
+        location: 160-124
   - name: Thursday
     events:
       # - name: Greg's Office Hours
@@ -51,7 +51,7 @@ schedule:
       - name: Lecture
         start: 4:30 PM
         end: 5:50 PM
-        location: Littlefield 103
+        location: 160-124
       - name: Ashwin's Office Hours
         start: 2:30 PM
         end: 4:00 PM
