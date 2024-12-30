@@ -49,9 +49,10 @@ Welcome to the Winter 2025 edition of CME 241: Foundations of Reinforcement Lear
 
 # Grading
 
-*   40% Exam (in week 8)
-*   30% Group Assignments (to be done until Week 7)
-*   30% Course Project
+*   45%: Assignments (15% per assignment, 3 total)
+*   30%: Exam (Week 8)
+*   20%: Course Project
+*   5%: Attendance (18/20 minimum lecture attendance)
 
 # Access and Accommodations
 
@@ -65,6 +66,5 @@ If you already have an Academic Accommodation Letter, we invite you to share you
 
 - [Course Calendar](calendar.md)
 - [Weekly Schedule](schedule.md)
-- [Announcements](announcements.md)
 - [Staff](staff.md)
 
