@@ -9,9 +9,13 @@ Feb 5
   : Optimal Trade Order Execution section in Chapter 10 of RLForFinanceBook	
 
 Feb 7
-: Lecture Slides
+<!-- : Lecture Slides
   : [Application Problem 5 - Optimal Market-Making](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-OrderBook.pdf)
 : Readings
   : Optimal Market-Making section in Chapter 10 of RLForFinanceBook	
 : Assignments
-  : [Assignment 6: Due Feb 19 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2024/assignment6.ipynb)
+  : [Assignment 6: Due Feb 19 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2024/assignment6.ipynb) -->
+: Lecture Slides
+  : [RL for Prediction (Monte-Carlo and Temporal-Difference)](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-RLPrediction.pdf)
+: Readings
+  : MC and TD sections in Chapter 11 of RLForFinanceBook	
