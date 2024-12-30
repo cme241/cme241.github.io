@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 
-Jan 31
+Jan 29
 : Lecture Slides
   : [Application Problem 1 - Dynamic Asset-Allocation and Consumption](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-AssetAlloc.pdf)
 : Readings
@@ -12,7 +12,7 @@ Jan 31
   : Optional: Appendix B, C, and D of RLForFinanceBook; 
 [Some (rough) pointers on Discrete versus Continuous MDPs, and solution techniques](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/DiscreteVSContinuous.pdf)
 
-Feb 2
+Jan 31
 : Lecture Slides
   : [Application Problems 2 and 3 - Optimal Exercise of American Options and Optimal Hedging of Derivatives in Incomplete Markets](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-Deriv.pdf)
 : Readings

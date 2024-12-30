@@ -2,13 +2,13 @@
 title: Week 7
 ---
 
-Feb 21
+Feb 19
 : Lecture Slides
   : [RL for Control (Optimal Value Function/Optimal Policy)](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-RLControl.pdf)
 : Readings
   : Chapter 12 of RLForFinanceBook	
 
-Feb 23
+Feb 21
 : Lecture Slides
   : [Batch RL, Experience-Replay, DQN, LSPI](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-Batch.pdf)
 : Readings
