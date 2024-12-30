@@ -18,5 +18,3 @@ Jan 24
   : Chapter 7 of RLForFinanceBook	
 : Optional
   : Appendix A and C of RLForFinanceBook
-: Assignments
-  : [Assignment 4: Due Feb 5 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2024/assignment4.ipynb)
