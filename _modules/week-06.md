@@ -12,6 +12,4 @@ Feb 14
 : Lecture Slides
   : [	RL for Prediction (Eligibility Traces and TD(Lambda))](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-RLPrediction.pdf)
 : Readings
-  : Eligibility Traces and TD(Lambda) sections in Chapter 11 of RLForFinanceBook	
-: Assignment
-  : [Assignment 3: Due Feb 16 11:59pm](https://www.google.com/)
+  : Eligibility Traces and TD(Lambda) sections in Chapter 11 of RLForFinanceBook
