@@ -2,7 +2,7 @@
 title: Week 8
 ---
 
-
+<!--
 Feb 26
 : Lecture Slides
   : [Value Function Geometry and Gradient TD](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-Batch.pdf)
@@ -20,3 +20,4 @@ Exam
   : February 28 @ 8:00 PM PST - March 2 @ 8:00 PM PST (48 Hours)
 : Logistics
   : Take home exam, to be completed individually and in compliance with the honor code, submitted via Gradescope
+-->
