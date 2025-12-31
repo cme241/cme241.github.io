@@ -22,9 +22,9 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - name: Neel's Office Hours
-        start: 3:30 PM
-        end: 5:00 PM
+      - name: Catherine's Office Hours
+        start: 4:30 PM
+        end: 5:30 PM
         location: Huang Basement
   - name: Wednesday
     events:
@@ -42,9 +42,9 @@ schedule:
       #   start: 12:00 PM
       #   end: 1:00 PM
       #   location: Zoom
-      - name: Neel's Office Hours
-        start: 3:30 PM
-        end: 5:00 PM
+      - name: Catherine's Office Hours
+        start: 4:30 PM
+        end: 5:30 PM
         location: Huang Basement
   - name: Friday
     events:
