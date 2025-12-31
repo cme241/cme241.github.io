@@ -1,7 +1,7 @@
 ---
 title: Week 7
 ---
-
+<!--
 Feb 19
 : Lecture Slides
   : [RL for Control (Optimal Value Function/Optimal Policy)](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-RLControl.pdf)
@@ -17,3 +17,4 @@ Feb 21
 Feb 23
 : Assignment
   : [Assignment 3: Due Feb 23 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2025/assignment3.ipynb)
+-->
