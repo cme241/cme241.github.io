@@ -7,12 +7,9 @@ Jan 7
   : [Course Overview](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Stanford-CME241.pdf)
 : Readings
   : Chapter 1 of RLForFinanceBook
+  
 <!--
 Jan 9
-: Optional
-  : Python Session (Time/Location TBD)
-
-Jan 10
 : Lecture Slides
   : [Guided Tour of Chapter 3: Markov Process and Markov Reward Process](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-MP.pdf)
 : Readings
