@@ -1,8 +1,8 @@
 ---
-name: Neel Narayan
+name: Catherine Chen
 role: Course Assistant
-email: neelsn@stanford.edu
-website: https://icme.stanford.edu/people/neel-narayan
+email: cyc2152@stanford.edu
+website: https://icme.stanford.edu/people/catherine-chen
 photo: 
 ---
 
