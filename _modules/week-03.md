@@ -2,7 +2,7 @@
 title: Week 3
 ---
 
-
+<!--
 Jan 22
 : Lecture Slides
   : [Function Approximation and Approximate Dynamic Programming Algorithms](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-ADP.pdf)
@@ -18,3 +18,4 @@ Jan 24
   : Chapter 7 of RLForFinanceBook	
 : Optional
   : Appendix A and C of RLForFinanceBook
+-->
