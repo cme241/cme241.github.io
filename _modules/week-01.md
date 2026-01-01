@@ -7,6 +7,8 @@ Jan 7
   : [Course Overview](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Stanford-CME241.pdf)
 : Readings
   : Chapter 1 of RLForFinanceBook
+: Assignment
+  : [Assignment 0: Course Setup, Very Easy!](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2026/assignment0.pdf)
   
 <!--
 Jan 9
@@ -14,6 +16,5 @@ Jan 9
   : [Guided Tour of Chapter 3: Markov Process and Markov Reward Process](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-MP.pdf)
 : Readings
   : Chapter 3 of RLForFinanceBook
-: Assignment
-  : [Assignment 0: Course Setup, Very Easy! Due Jan 12 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2025/assignment0.pdf)
+
 -->
