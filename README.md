@@ -44,7 +44,7 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 
 *   [Course Textbook](https://www.amazon.com/Foundations-Reinforcement-Learning-Applications-Finance/dp/1032124121) (henceforth known as "RLForFinanceBook"). PDF version available as [free download](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)
 *   [Python codebase Tikhon Jelvis and I have developed](https://github.com/TikhonJelvis/RL-book/tree/master/rl) to help you "learn through coding"
-*   [Technical Documents/Lecture Slides/Assignments Neel and I have prepared for this course](https://github.com/coverdrive/technical-documents/tree/master/finance/cme241)
+*   [Technical Documents/Lecture Slides/Assignments Catherine and I have prepared for this course](https://github.com/coverdrive/technical-documents/tree/master/finance/cme241)
 *   [Ed Discussion](https://edstem.org/us/courses/70339) (Online discussion forum)
 
 # Grading
