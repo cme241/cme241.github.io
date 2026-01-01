@@ -14,7 +14,7 @@ Welcome to the Winter 2025 edition of CME 241: Foundations of Reinforcement Lear
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
 - Course Assistant (CA): [Catherine Chen](https://icme.stanford.edu/people/catherine-chen)
-- Neel's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement
+- Catherine's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement
 
 ## Table of contents
 {: .no_toc .text-delta }
