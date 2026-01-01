@@ -8,7 +8,7 @@ seo:
   name: CME 241
 ---
 
-Welcome to the Winter 2025 edition of CME 241: Foundations of Reinforcement Learning with Applications in Finance.
+Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Learning with Applications in Finance.
 
 - Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
