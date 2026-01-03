@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures and Slides
+title: Lecture Schedule and Slides/Reading Content
 description: Listing of course modules and topics.
 ---
 
