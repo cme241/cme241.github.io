@@ -23,23 +23,6 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 1. TOC
 {:toc}
 
-# Course Project
-The course project is meant to be configured within the realm of a broad topic that is of high practical
-relevance, has traditionally been challenging to solve, and is well suited for appropriate formulation
-and solution using the mathematical and computational techniques taught in this course. Each
-project group can specialize the project scope within this broad topic.
-
-The broad topic is <b>Personal Finance Optimization</b>. At various stages of our lives, we are
-trying to grow our wealth while simultaneously making payments on our obligations and tactically
-paying for optional/selective products and services that give us specific forms of satisfaction or
-enjoyment. We typically grow our wealth by receiving salary, bonuses and equity while doing jobs
-and by making appropriate choices on investments made with our savings (eg: stocks, real-estate,
-gold etc.) Our payments obligations are typically our rent or mortgage, vehicle payments, utility bills
-etc. Our tactical payments for optional/selective products/services giving us satisfaction/enjoyment
-can be wide-ranging - a vacation, a luxury car, a birthday celebration, a gift for a loved one etc.
-The objective is to maximize the aggregated <i>Utility of Consumption</i> (something that you will learn
-about during the course). The problem is to make a sequence of optimal decisions on the optional/selective products/services,
-amidst significant uncertainty around how our lives will transpire. [See details here](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Project-Winter2026.pdf).
 
 # Overview of the Course
 
@@ -68,6 +51,24 @@ amidst significant uncertainty around how our lives will transpire. [See details
 *   Python Coding Background
     * [Chapter 2 Colab](https://colab.research.google.com/drive/1OOz8vKQRyJeindRwp0cKC9rCENitx1vQ) (overview of the Python pre-reqs)
     * Python workshop - [Part1](https://colab.research.google.com/drive/1kN6RX031p4ExcKPkaBxgk7qx30Ds_U50?usp=sharing) and [Part2](https://colab.research.google.com/drive/1safN7aN8d3hvS9KJMdXTGv_aXhl9utkl) (dig deeper into the pre-reqs with these tutorials)
+ 
+# Course Project
+The course project is meant to be configured within the realm of a broad topic that is of high practical
+relevance, has traditionally been challenging to solve, and is well suited for appropriate formulation
+and solution using the mathematical and computational techniques taught in this course. Each
+project group can specialize the project scope within this broad topic.
+
+The broad topic is <b>Personal Finance Optimization</b>. At various stages of our lives, we are
+trying to grow our wealth while simultaneously making payments on our obligations and tactically
+paying for optional/selective products and services that give us specific forms of satisfaction or
+enjoyment. We typically grow our wealth by receiving salary, bonuses and equity while doing jobs
+and by making appropriate choices on investments made with our savings (eg: stocks, real-estate,
+gold etc.) Our payments obligations are typically our rent or mortgage, vehicle payments, utility bills
+etc. Our tactical payments for optional/selective products/services giving us satisfaction/enjoyment
+can be wide-ranging - a vacation, a luxury car, a birthday celebration, a gift for a loved one etc.
+The objective is to maximize the aggregated <i>Utility of Consumption</i> (something that you will learn
+about during the course). The problem is to make a sequence of optimal decisions on the optional/selective products/services,
+amidst significant uncertainty around how our lives will transpire. [See details here](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Project-Winter2026.pdf).
 
 # Grading
 
