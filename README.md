@@ -13,7 +13,7 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 - Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
 - Course Assistant (CA): [Catherine Chen](https://icme.stanford.edu/people/catherine-chen)
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
-- [<b>Lecture Schedule and Slides/Reading Content</b>](calendar.md)
+- [<b>Lecture Topics Schedule and Slides/Reading Content</b>](calendar.md)
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
 - Catherine's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement
 
@@ -23,8 +23,8 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 1. TOC
 {:toc}
 
-# Coures Project
-The goal is to provide guidance on a broad topic for the course project that is of high practical
+# Course Project
+The course project is meant to be configured within the realm of a broad topic that is of high practical
 relevance, has traditionally been challenging to solve, and is well suited for appropriate formulation
 and solution using the mathematical and computational techniques taught in this course. Each
 project group can specialize the project scope within this broad topic.
@@ -38,9 +38,8 @@ gold etc.) Our payments obligations are typically our rent or mortgage, vehicle 
 etc. Our tactical payments for optional/selective products/services giving us satisfaction/enjoyment
 can be wide-ranging - a vacation, a luxury car, a birthday celebration, a gift for a loved one etc.
 The objective is to maximize the aggregated <i>Utility of Consumption</i> (something that you will learn
-about in detail in Chapter 7 of the textbook, also covered in a lecture during this course). The
-problem is to make a sequence of optimal decisions on the optional/selective products/services,
-amidst significant uncertainty with how our lives will transpire. [See details here](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Project-Winter2026.pdf).
+about during the course). The problem is to make a sequence of optimal decisions on the optional/selective products/services,
+amidst significant uncertainty around how our lives will transpire. [See details here](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Project-Winter2026.pdf).
 
 # Overview of the Course
 
