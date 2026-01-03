@@ -13,7 +13,7 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 - Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
 - Course Assistant (CA): [Catherine Chen](https://icme.stanford.edu/people/catherine-chen)
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
-- [<b>Lecture Topics Schedule and Slides/Reading Content</b>](calendar.md)
+- [<b>Lecture Topics Schedule</b>](calendar.md)
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
 - Catherine's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement
 
@@ -46,7 +46,7 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 
 *   [Course Textbook](https://www.amazon.com/Foundations-Reinforcement-Learning-Applications-Finance/dp/1032124121) (henceforth known as "RLForFinanceBook"). PDF version available as [free download](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)
 *   [Python codebase Tikhon Jelvis and I have developed](https://github.com/TikhonJelvis/RL-book/tree/master/rl) to help you "learn through coding"
-*   [<b>Lecture Schedule and Slides/Reading Content</b>](calendar.md)
+*   [<b>Lecture Slides</b>](calendar.md)
 *   [Ed Discussion](https://edstem.org/us/courses/90295/discussion) (Online discussion forum)
 *   Python Coding Background
     * [Chapter 2 Colab](https://colab.research.google.com/drive/1OOz8vKQRyJeindRwp0cKC9rCENitx1vQ) (overview of the Python pre-reqs)
