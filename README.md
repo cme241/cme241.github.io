@@ -49,7 +49,10 @@ The problem we want to solve is to identify the optimal extractions from your IR
 *   [Course Textbook](https://www.amazon.com/Foundations-Reinforcement-Learning-Applications-Finance/dp/1032124121) (henceforth known as "RLForFinanceBook"). PDF version available as [free download](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)
 *   [Python codebase Tikhon Jelvis and I have developed](https://github.com/TikhonJelvis/RL-book/tree/master/rl) to help you "learn through coding"
 *   [Technical Documents/Lecture Slides/Assignments Catherine and I have prepared for this course](https://github.com/coverdrive/technical-documents/tree/master/finance/cme241)
-*   [Ed Discussion](https://edstem.org/us/courses/70339) (Online discussion forum)
+*   [Ed Discussion](https://edstem.org/us/courses/90295/discussion) (Online discussion forum)
+*   Python Coding Background
+    * [Chapter 2 Colab](https://colab.research.google.com/drive/1OOz8vKQRyJeindRwp0cKC9rCENitx1vQ) (overview of the Python pre-reqs)
+    * Python workshop - [Part1](https://colab.research.google.com/drive/1kN6RX031p4ExcKPkaBxgk7qx30Ds_U50?usp=sharing) and [Part2](https://colab.research.google.com/drive/1safN7aN8d3hvS9KJMdXTGv_aXhl9utkl) (dig deeper into the pre-reqs with these tutorials)
 
 # Grading
 
