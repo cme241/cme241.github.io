@@ -11,9 +11,10 @@ seo:
 Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Learning with Applications in Finance.
 
 - Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
-- Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
-- Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
 - Course Assistant (CA): [Catherine Chen](https://icme.stanford.edu/people/catherine-chen)
+- Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
+- [<b>Lectures and Slides</b>](calendar.md)
+- Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
 - Catherine's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement
 
 ## Table of contents
@@ -21,6 +22,9 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 
 1. TOC
 {:toc}
+
+# Coures Project
+The problem we want to solve is to identify the optimal extractions from your IRA and your regular investment account so that we maximize your annual (after-tax) consumption. To keep things simple, we work with the constraint that the inflation-adjusted annual consumption is the same over all T years (note that this inflation-adjusted annual consumption is the quantity being maximized). [See details here](https://colab.research.google.com/drive/1AqTM-uhOOiodnvO9xgKFqrKc6G53C_SE#scrollTo=iSDGfha88iux).
 
 # Overview of the Course
 
@@ -61,9 +65,5 @@ If you experience disability, please register with the Office of Accessible Educ
 
 If you already have an Academic Accommodation Letter, we invite you to share your letter with us. Academic Accommodation Letters should be shared at the earliest possible opportunity so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
 
-# Course Information
 
-- [Lectures and Slides](calendar.md)
-- [Weekly Schedule](schedule.md)
-- [Staff](staff.md)
 
