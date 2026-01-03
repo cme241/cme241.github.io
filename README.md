@@ -13,7 +13,7 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 - Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
 - Course Assistant (CA): [Catherine Chen](https://icme.stanford.edu/people/catherine-chen)
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
-- [<b>Lectures and Slides</b>](calendar.md)
+- [<b>Lecture Schedule and Slides/Reading Content</b>](calendar.md)
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
 - Catherine's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement
 
@@ -24,7 +24,23 @@ Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Lear
 {:toc}
 
 # Coures Project
-The problem we want to solve is to identify the optimal extractions from your IRA and your regular investment account so that we maximize your annual (after-tax) consumption. To keep things simple, we work with the constraint that the inflation-adjusted annual consumption is the same over all T years (note that this inflation-adjusted annual consumption is the quantity being maximized). [See details here](https://colab.research.google.com/drive/1AqTM-uhOOiodnvO9xgKFqrKc6G53C_SE#scrollTo=iSDGfha88iux).
+The goal is to provide guidance on a broad topic for the course project that is of high practical
+relevance, has traditionally been challenging to solve, and is well suited for appropriate formulation
+and solution using the mathematical and computational techniques taught in this course. Each
+project group can specialize the project scope within this broad topic.
+
+The broad topic is <b>Personal Finance Optimization</b>. At various stages of our lives, we are
+trying to grow our wealth while simultaneously making payments on our obligations and tactically
+paying for optional/selective products and services that give us specific forms of satisfaction or
+enjoyment. We typically grow our wealth by receiving salary, bonuses and equity while doing jobs
+and by making appropriate choices on investments made with our savings (eg: stocks, real-estate,
+gold etc.) Our payments obligations are typically our rent or mortgage, vehicle payments, utility bills
+etc. Our tactical payments for optional/selective products/services giving us satisfaction/enjoyment
+can be wide-ranging - a vacation, a luxury car, a birthday celebration, a gift for a loved one etc.
+The objective is to maximize the aggregated <i>Utility of Consumption</i> (something that you will learn
+about in detail in Chapter 7 of the textbook, also covered in a lecture during this course). The
+problem is to make a sequence of optimal decisions on the optional/selective products/services,
+amidst significant uncertainty with how our lives will transpire. [See details here](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Project-Winter2026.pdf).
 
 # Overview of the Course
 
@@ -48,7 +64,7 @@ The problem we want to solve is to identify the optimal extractions from your IR
 
 *   [Course Textbook](https://www.amazon.com/Foundations-Reinforcement-Learning-Applications-Finance/dp/1032124121) (henceforth known as "RLForFinanceBook"). PDF version available as [free download](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)
 *   [Python codebase Tikhon Jelvis and I have developed](https://github.com/TikhonJelvis/RL-book/tree/master/rl) to help you "learn through coding"
-*   [Technical Documents/Lecture Slides/Assignments Catherine and I have prepared for this course](https://github.com/coverdrive/technical-documents/tree/master/finance/cme241)
+*   [<b>Lecture Schedule and Slides/Reading Content</b>](calendar.md)
 *   [Ed Discussion](https://edstem.org/us/courses/90295/discussion) (Online discussion forum)
 *   Python Coding Background
     * [Chapter 2 Colab](https://colab.research.google.com/drive/1OOz8vKQRyJeindRwp0cKC9rCENitx1vQ) (overview of the Python pre-reqs)
