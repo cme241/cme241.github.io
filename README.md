@@ -10,7 +10,7 @@ seo:
 
 Welcome to the Winter 2026 edition of CME 241: Foundations of Reinforcement Learning with Applications in Finance.
 
-- Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
+- Instructor: [Prof. Ashwin Rao](http://stanford.edu/~ashlearn)
 - Course Assistant (CA): [Catherine Chen](https://icme.stanford.edu/people/catherine-chen)
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=Gates+B12)
 - [<b>Lecture Topics Schedule</b>](calendar.md)
