@@ -49,9 +49,9 @@ Welcome to the Winter 2026 edition of **CME 241: Foundations of Reinforcement Le
 *   [Accompanying Python codebase (git repo)](https://github.com/TikhonJelvis/RL-book/tree/master/rl) to help you "learn through coding"
 *   [<b>Lecture Slides</b>](calendar.md)
 *   [Ed Discussion](https://edstem.org/us/courses/90295/discussion) (Online discussion forum)
-*   Python Coding Background
-    * [Chapter 2 Colab](https://colab.research.google.com/drive/1OOz8vKQRyJeindRwp0cKC9rCENitx1vQ) (overview of the Python pre-reqs)
-    * Python workshop - [Part1](https://colab.research.google.com/drive/1kN6RX031p4ExcKPkaBxgk7qx30Ds_U50?usp=sharing) and [Part2](https://colab.research.google.com/drive/1safN7aN8d3hvS9KJMdXTGv_aXhl9utkl) (dig deeper into the pre-reqs with these tutorials)
+*   Python Code Design Material (course pre-req)
+    * [Chapter 2 Colab](https://colab.research.google.com/drive/1OOz8vKQRyJeindRwp0cKC9rCENitx1vQ) (overview of the Python code design pre-reqs)
+    * Python code design workshop - [Part1](https://colab.research.google.com/drive/1kN6RX031p4ExcKPkaBxgk7qx30Ds_U50?usp=sharing) and [Part2](https://colab.research.google.com/drive/1safN7aN8d3hvS9KJMdXTGv_aXhl9utkl) (dig deeper into the pre-reqs with these tutorials)
  
 # Course Project
 The course project is meant to be configured within the realm of a broad topic that is of high practical
