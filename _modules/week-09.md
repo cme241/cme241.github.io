@@ -2,13 +2,13 @@
 title: Week 9
 ---
 <!--
-Mar 5
+Mar 4
 : Lecture Slides
   : [	Exploration versus Exploitation (Multi-Armed Bandits)](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-Bandits.pdf)
 : Readings
   : Chapter 15 of RLForFinanceBook	
 
-Mar 7
+Mar 6
 : Lecture Slides
   : [Blending Learning and Planning](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-LearningPlanning.pdf), 
     [Planning & Control for Inventory & Pricing](https://github.com/coverdrive/technical-documents/blob/master/supply_chain/RetailAI.pdf)
