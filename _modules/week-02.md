@@ -15,5 +15,5 @@ Jan 16
 : Readings
   : Chapter 5 of RLForFinanceBook	
 Assignment
-  : [Assignment 1:]
+  : To be released
 
