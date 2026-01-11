@@ -14,6 +14,6 @@ Jan 16
   : [Dynamic Programming Algorithms](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/Tour-DP.pdf)
 : Readings
   : Chapter 5 of RLForFinanceBook	
-Assignment
+: Assignment
   : To be released
 
