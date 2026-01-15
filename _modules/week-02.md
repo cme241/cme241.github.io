@@ -15,5 +15,5 @@ Jan 16
 : Readings
   : Chapter 5 of RLForFinanceBook	
 : Assignment
-  : To be released
+  : [Assignment 1: DUE Friday, January 23 @ 11:59 PM](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2026/assignment1.ipynb)
 
