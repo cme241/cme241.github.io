@@ -15,7 +15,7 @@ Welcome to the Winter 2026 edition of **CME 241: Foundations of Reinforcement Le
 - Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12](https://campus-map.stanford.edu/?srch=GatesB12)
 - [<b>Lecture Topics Schedule</b>](calendar.md)
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
-- Catherine's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement
+- Catherine's Office Hours: Tuesday & Thursday 4:30 - 5:30 PM in Huang Basement (by appointment, please email beforehand)
 
 ## Table of contents
 {: .no_toc .text-delta }
