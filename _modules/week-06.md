@@ -14,7 +14,7 @@ Feb 13
 : Readings
   : Eligibility Traces and TD(Lambda) sections in Chapter 11 of RLForFinanceBook
 : Zoom Link
-  : Join from PC, Mac, Linux, iOS or Android: https://stanford.zoom.us/j/91047067791?pwd=T8UEqHXoMV9ZiI1kTTfaNv7fIfKyyF.1
+  : [Zoom Link](https://stanford.zoom.us/j/91047067791?pwd=T8UEqHXoMV9ZiI1kTTfaNv7fIfKyyF.1)
 Password: 610038
 
 
