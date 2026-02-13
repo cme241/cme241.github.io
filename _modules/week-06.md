@@ -16,5 +16,6 @@ Feb 13
 : Zoom Link
   : [Zoom Link](https://stanford.zoom.us/j/91047067791?pwd=T8UEqHXoMV9ZiI1kTTfaNv7fIfKyyF.1)
 Password: 610038
-
+: Assignment
+  : [Assignment 3: Due Feb 27 11:59pm](https://github.com/coverdrive/technical-documents/blob/master/finance/cme241/assignments/Winter2026/assignment3.ipynb)
 
