@@ -8,5 +8,5 @@ Mar 11
 Password: 112968
 
 Mar 13
-: Final Project Presentations (Class extended from 4:30pm to 7:00pm)
+: Final Project Presentations (Class extended from 3:00pm to 6:00pm)
 
